@@ -1,6 +1,6 @@
 # MimicProp
 
-MimicProp(Mimicking Propagation) is a
+MimicProp(Mimicking Propagation) is an algorithm to learn the lexicon-aligned word representations. It has been shown to have superior performance in multiple NLP tasks. This is the implementation of the algorithms described in the following paper:
 
 PAPER_CITATION
 
@@ -37,7 +37,7 @@ Please prepare the required data (see ```pre```, ```lex```, and ```voc``` above)
 
 ### Run with our data
 
-You can find our dataset at: UPLOAD_THE_DATA_TO_GOOGLE
+You can find our dataset at: UPLOAD_THE_DATA_SAPARATELY
 Please download it to the root folder of this project, and run: 
 ```python3 run_mimicprop.py```
 
