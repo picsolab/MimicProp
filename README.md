@@ -37,7 +37,7 @@ Please prepare the required data (see ```pre```, ```lex```, and ```voc``` above)
 
 ### Run with our data
 
-You can find our dataset at: UPLOAD_THE_DATA_SAPARATELY
+You can find our dataset at: [here](https://drive.google.com/open?id=1wX6XdmsS9NfDtvN8A-SRis2mn2zzYg5f)
 Please download it to the root folder of this project, and run: 
 ```python3 run_mimicprop.py```
 
