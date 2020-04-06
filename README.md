@@ -32,12 +32,13 @@ Please install the required packages by ```pip3 install -r requirements.txt```
 
 ### Run with your data
 
-Please prepare the required data (see ```pre```, ```lex```, and ```voc``` above) in pickle format, and run the code with:
+Prepare the required data (see ```pre```, ```lex```, and ```voc``` above) in pickle format, and run the code with:
 ```python3 run_mimicprop.py --m YOUR_M --alpha YOUR_ALPHA --k YOUR_K --pre LOC_OF_PRE --lex LOC_OF_LEX --voc LOC_OF_VOC [--name NAME]```
 
 ### Run with our data
 
 You can find our dataset at: [here](https://drive.google.com/open?id=1wX6XdmsS9NfDtvN8A-SRis2mn2zzYg5f)
+
 Please download it to the root folder of this project, and run: 
 ```python3 run_mimicprop.py```
 
