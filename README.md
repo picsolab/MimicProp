@@ -1,8 +1,6 @@
 # MimicProp
 
-MimicProp(Mimicking Propagation) is an algorithm to learn the lexicon-aligned word representations. It has been shown to have superior performance in multiple NLP tasks. This is the implementation of the algorithms described in the following paper:
-
-PAPER_CITATION
+MimicProp(Mimicking Propagation) is an algorithm to learn the lexicon-aligned word representations. It has been shown to have superior performance in multiple NLP tasks. This is the implementation of the algorithms described in [this paper](http://bitly.com/mimicprop):
 
 ## Abstract
 
@@ -50,4 +48,4 @@ The output will be in 'output', with the name 'trained_*_final_emb.pkl'.
 
 If you make use of this code, please kindly cite our paper:
 
-PAPER_CITATION
+Yan, M., Lin, Y.-R., Hwa, R., Ertugrul, A., Guo, M., Chung, W.-T. (2020). MimicProp: Learning to Incorporate Lexicon Knowledge into Distributed Word Representation for Social Media Analysis. In Proceedings of the 14th International AAAI Conference on Web and Social Media (ICWSM 2020)
