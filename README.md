@@ -34,8 +34,9 @@ Prepare the required data (see ```pre```, ```lex```, and ```voc``` above) in pic
 ```python3 run_mimicprop.py --m YOUR_M --alpha YOUR_ALPHA --k YOUR_K --pre LOC_OF_PRE --lex LOC_OF_LEX --voc LOC_OF_VOC [--name NAME]```
 
 ### Run with our data
+We provide the data we used in our paper at: [here](https://drive.google.com/open?id=1wX6XdmsS9NfDtvN8A-SRis2mn2zzYg5f)
 
-You can find our dataset at: [here](https://drive.google.com/open?id=1wX6XdmsS9NfDtvN8A-SRis2mn2zzYg5f)
+In our dataset we provide ```pre``` of Google Word2Vec embedding (truncated to our vocabulary), ```lex``` of LIWC and Moral Values lexicons, and ```voc``` of the vocabulary of the down-stream tasks of Sentiment prediction and Moral Value prediction, repectively.
 
 Please download it to the root folder of this project, and run: 
 ```python3 run_mimicprop.py```
